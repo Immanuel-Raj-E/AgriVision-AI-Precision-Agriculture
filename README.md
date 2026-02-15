@@ -1,4 +1,3 @@
-# AgriVision-AI-Precision-Agriculture
 # 🌱 AgriVision AI – Precision Agriculture System
 
 AgriVision AI is an AI-powered precision agriculture platform that leverages satellite and drone imagery, machine learning, and weather data to monitor crop health and provide optimized, field-level farming recommendations.
